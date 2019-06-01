@@ -1,0 +1,25 @@
+/*GLOBAL VARIABLES*/
+/*GLOBAL*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+  font-family: "Inconsolata", sans-serif;
+  color: darkgreen; }
+
+section {
+  padding: 96px 0; }
+
+.container {
+  max-width: 400px;
+  padding: 0 20px;
+  margin: 0 auto; }
+
+.text-bold
+  font-face:bold;
+  }
