@@ -1,0 +1,27 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "main": "\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szandek/learning-git2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szandek/learning-git2/issues"
+  },
+  "homepage": "https://github.com/szandek/learning-git2#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.5"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  }
+}
